@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <link>
+    <title>Student List</title>
+    <url>student.php</url>
+  </link>
+
+  <link>
+    <title>Class</title>
+    <url>class.php</url>
+  </link>
+
+   <link>
+    <title>Grade</title>
+    <url>grade.php</url>
+  </link>
+
+  <link>
+    <title>Grading Sheet</title>
+    <url>grading_sheet.php</url>
+  </link>
+
+  <link>
+    <title>Course List</title>
+    <url>course.php</url>
+  </link>
+
+
+  <link>
+     <title>Announcement</title>
+     <url>announcement.php</url>
+  </link>
+
+  <link>
+    <title>Feedback</title>
+    <url>feedback.php</url>
+  </link>
+
+  <link>
+    <title>My Profile</title>
+    <url>profile.php</url>
+  </link>
+
+  <link>
+    <title>Calendar</title>
+    <url>calendar.php</url>
+  </link>
+</pages>
