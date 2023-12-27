@@ -1,5 +1,5 @@
 ## PROJECT TITLE
--  grade-management0system
+-  grade-management-system
 
 ## DESCRIPTION
 - an online grade management system for school or universities
